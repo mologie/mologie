@@ -16,3 +16,7 @@ I used to develop system extensions for jailbroken iOS devices. These stopped wo
 * [BetterPasscodeKeypad](https://github.com/mologie/betterpasscodekeypad) would make it harder for shoulder surfers to read your PIN back when there was no FaceID/TouchID.
 
 Some [macOS kernel hackery](https://github.com/mologie/NVWebDriverLibValFix) fixed compatibility of external GPUs with macOS 10.12 (and the fix is now maintained in [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)). Beyond that, there is a whole bunch of software back from my involvement with [Soldat.pl](https://soldat.pl/en/)/[OpenSoldat](https://github.com/opensoldat) and early web development/consulting work.
+
+### Tooling
+
+Proficient with Go / C++ / C / Obj-C / Git / K8s / VMware vSphere / Linux / macOS / networks / whiteboards / Google ;-). I edit code with Sublime Text / JetBrains IDEs / Xcode. Occasionally you'll find me using Swift / Kotlin / Java / Python / PostgreSQL / HTML+CSS+JS / LaTeX, and reverse engineer software with IDA and Hopper.
