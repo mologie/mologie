@@ -5,7 +5,7 @@ I currently work at [Authentic Vision GmbH](https://www.authenticvision.com/) in
 ### Personal Projects
 
 * [talos-vmtoolsd](https://github.com/mologie/talos-vmtoolsd): Integrates the Talos Kubernetes distribution and VMware vSphere. Estimated to run on more than 2K machines based on GitHub-provided download statistics.
-* [NXBoot](https://mologie.github.io/nxboot/) ([repo](https://github.com/mologie/NXBoot)): IOKit-based implementation of Fusée Gelée, which starts arbitrary early boot code on vulnerable Nintendo Switch models from macOS and jailbroken iOS devices.
+* [NXBoot](https://mologie.github.io/nxboot/) ([repo](https://github.com/mologie/NXBoot)): Starts arbitrary early boot code on vulnerable Nintendo Switch models from macOS and jailbroken iOS devices, using a custom IOKit-based implementation of Fusée Gelée. Still has ~100 active monthly users (down from 500 when launched in 2018). 
 
 ### Tooling
 
