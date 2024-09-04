@@ -4,9 +4,9 @@ I currently work at [Authentic Vision GmbH](https://www.authenticvision.com/) in
 
 ### Personal Projects
 
+* [talos-vmtoolsd](https://github.com/mologie/talos-vmtoolsd): Integrates Talos K8s and VMware vSphere on thousands of machines. The project was migrated into the official Sidero Labs GitHub org in 2024 and is currently maintained by Equinix NL.
+* [NXBoot](https://mologie.github.io/nxboot/) ([repo](https://github.com/mologie/NXBoot)): Starts early boot code on first-gen Nintendo Switch consoles from macOS and liberated iOS devices, using a custom IOKit-based implementation of Fusée Gelée. Has several hundred active monthly users.
 * [nicecmd](https://github.com/mologie/nicecmd): A Go library for building command line tools. It is a frontend for Cobra, the most common CLI library in the Go ecosystem, and avoids its verbose API. I hope that this utility of mine gains some traction eventually, it's quite new.
-* [talos-vmtoolsd](https://github.com/mologie/talos-vmtoolsd): Integrates Talos K8s and VMware vSphere on over 5K machines. The project was migrated into the official Sidero Labs GitHub org in 2024 and is currently maintained by Equinix NL.
-* [NXBoot](https://mologie.github.io/nxboot/) ([repo](https://github.com/mologie/NXBoot)): Starts early boot code on first-gen Nintendo Switch consoles from macOS and jailbroken iOS devices, using a custom IOKit-based implementation of Fusée Gelée. Still has ~100 active monthly users (down from 500 when launched in 2018).
 
 Other small or archived projects of mine can be found in my repositories list:  
 [Current](https://github.com/mologie?tab=repositories&q=&type=source&language=&sort=name) •
