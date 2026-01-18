@@ -15,4 +15,4 @@ Other small or archived projects of mine can be found in my repositories list:
 
 ### Tooling
 
-Proficient with Go / C++ / C / Swift / Obj-C / Git / K8s / VMware vSphere / Linux / macOS / networks / whiteboards :-). I edit code with Sublime Text / JetBrains IDEs / Xcode. Occasionally you'll find me using Zig / Kotlin / Java / Python / PostgreSQL / HTML+CSS+JS / LaTeX, and reverse engineer software with Ghidra, IDA, and Hopper.
+Proficient with Go / C++ / C / Swift / Obj-C / Git / K8s / Proxmox / vSphere / Linux / macOS / networks / whiteboards ;-). I edit code with Sublime Text / JetBrains IDEs / Xcode. Having fun with Rust / Zig! Occasionally you'll find me using Kotlin / Java / Python / PostgreSQL / HTML+CSS+JS / LaTeX / Typst, and reverse engineer software with Ghidra, IDA, and Hopper.
