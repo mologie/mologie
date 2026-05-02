@@ -1,4 +1,4 @@
-Hi there, I'm Oliver! You will find me online by the aliases Mologie or Tri. This GitHub account of mine contains ramblings of technical nature, PoCs, and other personal projects worth archiving.
+Hi there, I'm Oliver! You will find me online by the aliases Tri and Mologie. This GitHub account of mine contains ramblings of technical nature, PoCs, and other personal projects worth archiving.
 
 ### Personal Projects
 
