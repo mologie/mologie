@@ -1,7 +1,5 @@
 Hi there, I'm Oliver! You will find me online by the aliases Mologie or Tri. This GitHub account of mine contains ramblings of technical nature, PoCs, and other personal projects worth archiving.
 
-I currently work at [Authentic Vision GmbH](https://www.authenticvision.com/) in Salzburg as Head of Engineering, where we stop fraud using a copy-proof security label and accompanying mobile App and SDK.
-
 ### Personal Projects
 
 * [talos-vmtoolsd](https://github.com/mologie/talos-vmtoolsd): Integrates Talos K8s and VMware vSphere on thousands of machines. The project was migrated into the official Sidero Labs GitHub org in 2024 and is currently maintained by Equinix NL.
